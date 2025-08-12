@@ -4,4 +4,4 @@ This repository contains the source code and documentation for a ROS 2 project o
 
 **For a full, detailed report on the project's theory, implementation, and results, please see the PDF document below:**
 
-[**View the Full Project Report (PDF)**](./project_Report.pdf)
+[**View the Full Project Report (PDF)**](sensor_fusion/project_report.pdf)
